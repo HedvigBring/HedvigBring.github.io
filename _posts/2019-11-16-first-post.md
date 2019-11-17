@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Det första inlägget"
-date:   2019-11-16 07:13:52 -0600
+date:   2019-11-16 13:07:52 +0100
 categories: blogg
 ---
 
